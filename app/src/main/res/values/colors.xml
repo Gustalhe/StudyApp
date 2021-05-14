@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="ColorFundo">#59AA5C</color>
+    <color name="cor_letra_descricao">#000000</color>
+    <color name="cor_letra_titulo">#FFFFFF</color>
+    <color name="cor_fundo_adapter_lista">#FFFFFF</color>
+    <color name="cor_borda_adapter">#00BCD4</color>
+</resources>
